@@ -32,6 +32,6 @@ export default {
 </template>
 
 <style lang="scss">
-@use './style/general.scss' as *;
-@use './style/partials/variables' as *;
+@use './styles/general.scss' as *;
+@use './styles/partials/variables' as *;
 </style>
